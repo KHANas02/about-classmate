@@ -1,0 +1,50 @@
+0 unsaved changes 
+CSS Options
+399
+​
+400
+  .item {
+401
+    width: 31.33%;
+402
+  }
+403
+
+404
+
+405
+@media screen and (max-width: 900px) {
+406
+  .item {
+407
+    width: 44%;
+408
+    margin: 10px 2% 10px 2%;
+409
+  }
+410
+}
+411
+@media screen and (max-width: 580px) {
+412
+  .item {
+413
+    width: 80%;
+414
+    margin: 10px 10% 10px 10%;
+415
+  }
+416
+}
+417
+@media screen and (max-width: 420px) {
+418
+  .item {
+419
+    width: 98%;
+420
+    margin: 10px 1% 10px 1%;
+421
+  }
+422
+}

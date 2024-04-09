@@ -1,0 +1,46 @@
+
+  .item {
+
+    width: 31.33%;
+
+  }
+
+
+
+
+
+@media screen and (max-width: 900px) {
+
+  .item {
+
+    width: 44%;
+
+    margin: 10px 2% 10px 2%;
+
+  }
+
+}
+411
+@media screen and (max-width: 580px) {
+412
+  .item {
+413
+    width: 80%;
+414
+    margin: 10px 10% 10px 10%;
+415
+  }
+416
+}
+417
+@media screen and (max-width: 420px) {
+418
+  .item {
+419
+    width: 98%;
+420
+    margin: 10px 1% 10px 1%;
+421
+  }
+
+}
